@@ -2,8 +2,8 @@
 
 <div align="center">
   <!-- Dependency Status -->
-  <a href="https://david-dm.org/react-boilerplate/react-boilerplate">
-    <img src="https://david-dm.org/react-boilerplate/react-boilerplate.svg" alt="Dependency Status" />
+  <a href="https://david-dm.org/hmthanh/tamthientu_front">
+    <img src="https://david-dm.org/hmthanh/tamthientu_front.svg" alt="Dependency Status" />
   </a>
   <!-- devDependency Status -->
   <a href="https://david-dm.org/react-boilerplate/react-boilerplate#info=devDependencies">
