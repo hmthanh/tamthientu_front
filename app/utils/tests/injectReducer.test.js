@@ -62,7 +62,7 @@ describe('injectReducer decorator', () => {
     );
     const {
       props: { children },
-    } = renderedComponent.getInstance();
+    } = renderedComponent.root;
 
     expect(children.props).toEqual(props);
   });
