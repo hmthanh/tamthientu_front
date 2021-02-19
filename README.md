@@ -10,14 +10,13 @@
     <img src="https://david-dm.org/react-boilerplate/react-boilerplate/dev-status.svg" alt="devDependency Status" />
   </a>
   <!-- Build Status -->
-  <a href="https://circleci.com/gh/hmthanh/tamthientu_front">
-    <img src="https://circleci.com/gh/hmthanh/tamthientu_front.svg?style=shield&circle-token=3b3b9fa1fd6e7dc35ce2f208fd882554b3766e0e" alt="Build Status" />
+  <a href="https://travis-ci.com/github/hmthanh/tamthientu_front">
+    <img src="https://travis-ci.com/hmthanh/tamthientu_front.svg?token=iR4hcPARAsqx4ueqrhcZ&branch=main" alt="Build Status" />
   </a>
 
   <!-- Test Coverage -->
-  <a href="https://coveralls.io/r/hmthanh/tamthientu_front">
-    <img src="https://coveralls.io/repos/github/hmthanh/tamthientu_front/badge.svg" alt="Test Coverage" />
-  </a>
+  <a href='https://coveralls.io/github/hmthanh/tamthientu_front?branch=main'><img src='https://coveralls.io/repos/github/hmthanh/tamthientu_front/badge.svg?branch=main' alt='Coverage Status' /></a>
+
 </div>
 
 ## Features
