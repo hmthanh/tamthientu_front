@@ -17,6 +17,8 @@
     <img src="https://david-dm.org/react-boilerplate/react-boilerplate/dev-status.svg" alt="devDependency Status" />
   </a>
   <!-- Build Status -->
+  [![CircleCI](https://circleci.com/gh/hmthanh/tamthientu_front.svg?style=svg&circle-token=3b3b9fa1fd6e7dc35ce2f208fd882554b3766e0e)](https://app.circleci.com/settings/project/github/hmthanh/tamthientu_front)
+
   <a href="https://travis-ci.org/react-boilerplate/react-boilerplate">
     <img src="https://travis-ci.org/react-boilerplate/react-boilerplate.svg" alt="Build Status" />
   </a>
