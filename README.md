@@ -6,8 +6,8 @@
     <img src="https://david-dm.org/hmthanh/tamthientu_front.svg" alt="Dependency Status" />
   </a>
   <!-- devDependency Status -->
-  <a href="https://david-dm.org/react-boilerplate/react-boilerplate#info=devDependencies">
-    <img src="https://david-dm.org/react-boilerplate/react-boilerplate/dev-status.svg" alt="devDependency Status" />
+  <a href="https://david-dm.org/hmthanh/tamthientu_front#info=devDependencies">
+    <img src="https://david-dm.org/hmthanh/tamthientu_front/dev-status.svg" alt="devDependency Status" />
   </a>
   <!-- Build Status -->
   <a href="https://travis-ci.com/github/hmthanh/tamthientu_front">
