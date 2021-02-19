@@ -19,10 +19,9 @@
     <img src="https://travis-ci.org/hmthanh/tamthientu_front.svg" alt="Build Status" />
   </a>
 
-  
   <!-- Test Coverage -->
-  <a href="https://coveralls.io/r/react-boilerplate/react-boilerplate">
-    <img src="https://coveralls.io/repos/github/react-boilerplate/react-boilerplate/badge.svg" alt="Test Coverage" />
+  <a href="https://coveralls.io/r/hmthanh/tamthientu_front">
+    <img src="https://coveralls.io/repos/github/hmthanh/tamthientu_front/badge.svg" alt="Test Coverage" />
   </a>
   <a href="https://spectrum.chat/react-boilerplate">
   <img alt="Chat with us on Spectrum" src="https://withspectrum.github.io/badge/badge.svg" />
