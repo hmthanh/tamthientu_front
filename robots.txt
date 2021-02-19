@@ -1,2 +1,19 @@
+User-agent: Googlebot
+Allow: /
+Disallow: /search
+Crawl-delay: 2
+
+User-agent: OtherBot
+Allow: /feature
+Allow: /about
+Disallow: /admin
+Disallow: /login
+Crawl-delay: 2
+
 User-agent: *
 Allow: /
+Disallow: /search
+Crawl-delay: 10
+Clean-param: ref /articles/
+Sitemap: http://example.com/sitemap.xml
+Host: example.com
