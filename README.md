@@ -1,11 +1,9 @@
-<img src="https://raw.githubusercontent.com/react-boilerplate/react-boilerplate-brand/master/assets/banner-metal-optimized.jpg" alt="react boilerplate banner" align="center" />
-
-<br />
-
 <div align="center"><strong>Start your next react project in seconds</strong></div>
 <div align="center">A highly scalable, offline-first foundation with the best DX and a focus on performance and best practices</div>
 
 <br />
+
+[![CircleCI](https://circleci.com/gh/hmthanh/tamthientu_front.svg?style=svg&circle-token=3b3b9fa1fd6e7dc35ce2f208fd882554b3766e0e)](https://circleci.com/gh/hmthanh/tamthientu_front)
 
 <div align="center">
   <!-- Dependency Status -->
@@ -17,11 +15,11 @@
     <img src="https://david-dm.org/react-boilerplate/react-boilerplate/dev-status.svg" alt="devDependency Status" />
   </a>
   <!-- Build Status -->
-  [![CircleCI](https://circleci.com/gh/hmthanh/tamthientu_front.svg?style=svg&circle-token=3b3b9fa1fd6e7dc35ce2f208fd882554b3766e0e)](https://app.circleci.com/settings/project/github/hmthanh/tamthientu_front)
-
-  <a href="https://travis-ci.org/react-boilerplate/react-boilerplate">
-    <img src="https://travis-ci.org/react-boilerplate/react-boilerplate.svg" alt="Build Status" />
+  <a href="https://travis-ci.org/hmthanh/tamthientu_front">
+    <img src="https://travis-ci.org/hmthanh/tamthientu_front.svg" alt="Build Status" />
   </a>
+
+  
   <!-- Test Coverage -->
   <a href="https://coveralls.io/r/react-boilerplate/react-boilerplate">
     <img src="https://coveralls.io/repos/github/react-boilerplate/react-boilerplate/badge.svg" alt="Test Coverage" />
