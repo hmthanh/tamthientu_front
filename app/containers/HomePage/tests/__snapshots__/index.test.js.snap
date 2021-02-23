@@ -4,7 +4,7 @@ exports[`<HomePage /> should render and match the snapshot 1`] = `
 <article>
   <div>
     <section
-    class="Section-qlbla4-0 CenteredSection-lwyqo5-0 gqbrO"
+      class="Section-qlbla4-0 CenteredSection-lwyqo5-0 gqbrO"
     >
       <h2
         class="H2-noll7l-0 dhVLnM"

@@ -2,7 +2,7 @@
 
 exports[`<Footer /> should render and match the snapshot 1`] = `
 <footer
-  className="Wrapper-wcfdfo-0 dPvBog"
+  className="Wrapper-sc-1qkw75u-0 fUNEsg"
 >
   <section>
     <span>
@@ -11,10 +11,10 @@ exports[`<Footer /> should render and match the snapshot 1`] = `
   </section>
   <section>
     <div
-      className="Wrapper-xnjoq9-0 dNmQIR"
+      className="Wrapper-vds4a3-0 kUMZyf"
     >
       <select
-        className="Select-sc-1sm01tk-0 wIjFa"
+        className="Select-hz8i2d-0 kHFlBd"
         onChange={[Function]}
         value="en"
       >
@@ -33,16 +33,16 @@ exports[`<Footer /> should render and match the snapshot 1`] = `
   </section>
   <section>
     <span>
-      
-      Made with love by 
+
+      Made with love by
       <a
-        className="A-br8h0y-0 dwVNvo"
+        className="A-sc-1ot2mkk-0 cmKouL"
         href="https://twitter.com/mxstbr"
       >
         Max Stoiber
       </a>
       .
-    
+
     </span>
   </section>
 </footer>

@@ -3,20 +3,20 @@
 exports[`<Header /> should render a div 1`] = `
 <div>
   <a
-    class="A-br8h0y-0 A-p44m4v-0 cYguYL"
+    class="A-sc-1ot2mkk-0 A-sc-1kpbh3l-0 bPOAxy"
     href="https://www.reactboilerplate.com/"
   >
     <img
       alt="react-boilerplate - Logo"
-      class="Img-sc-9pa8on-0 eepIiv"
+      class="Img-d8f1of-0 cncePB"
       src="IMAGE_MOCK"
     />
   </a>
   <div
-    class="NavBar-sc-3b48xb-0 ioQxlc"
+    class="NavBar-sc-1s3yc3c-0 dqLnJL"
   >
     <a
-      class="HeaderLink-sc-1mtyaiv-0 hMiTYG"
+      class="HeaderLink-sc-1xmuhpd-0 hlGWT"
       href="/"
     >
       <span>
@@ -24,7 +24,7 @@ exports[`<Header /> should render a div 1`] = `
       </span>
     </a>
     <a
-      class="HeaderLink-sc-1mtyaiv-0 hMiTYG"
+      class="HeaderLink-sc-1xmuhpd-0 hlGWT"
       href="/features"
     >
       <span>
