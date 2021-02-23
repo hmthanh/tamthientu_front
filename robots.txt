@@ -1,3 +1,5 @@
+Access-Control-Allow-Origin: *
+
 User-agent: Googlebot
 Allow: /
 Disallow: /search
